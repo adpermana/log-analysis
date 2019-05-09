@@ -1,4 +1,4 @@
-LOG ANALYSIS
+# LOG ANALYSIS
         
 # Case 01
 Seorang pengelola IT mengetahui bahwa salah satu server yang dikelolanya berubah tampilan yang tidak sesuai sekitar pukul 10. Saat ini dia sedang melakukan identfikasi dan analisis insiden tersebut, guna mendapatkan identitas penyerang dan teknik serangan yang digunakan.
