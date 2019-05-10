@@ -11,3 +11,9 @@ Lakukan analisis log menggunakan file "case01" dan jawab pertanyaan berikut ini 
 5. Adakah file malicious yang teridentifikasi pada file log tersebut : ...
 6. Jika ada, sebutkan : ...
 7. Alamat IP yang digunakan oleh penyerang : ...
+
+Whois IP Lookup :
+https://www.ultratools.com/tools/ipWhoisLookupResult
+
+IP Reputation :
+https://www.talosintelligence.com/reputation_center
