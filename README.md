@@ -27,5 +27,9 @@ Lakukan analisis log menggunakan file "case02" dan jawab pertanyaan berikut ini 
 Whois IP Lookup :
 https://www.ultratools.com/tools/ipWhoisLookupResult
 
+IP Analysis :
+1. https://www.ipalyzer.com/
+2. https://www.ipvoid.com/
+
 IP Reputation :
 https://www.talosintelligence.com/reputation_center
