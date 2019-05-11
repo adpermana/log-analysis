@@ -12,6 +12,18 @@ Lakukan analisis log menggunakan file "case01" dan jawab pertanyaan berikut ini 
 6. Jika ada, sebutkan : ...
 7. Alamat IP yang digunakan oleh penyerang : ...
 
+# Case 02
+Seorang pengelola IT menemukan sebuah kejanggalan yang ada pada Sistem Server yang dikelolanya. Oleh karena itu, pengelola IT tersebut akan melakukan analisis log untuk menemukan kejanggalan yang ada.
+
+Lakukan analisis log menggunakan file "case02" dan jawab pertanyaan berikut ini :
+1. Berapa jumlah IP yang melakukan akses terhadap server : ...
+2. Sebutkan alamat IP tersebut : ...
+3. Lakukan analisis request dengan status code 200
+4. Lakukan analisis request dengan status code 404
+5. Alamat IP mana yang melakukan akses Ring The Dorbell : ...
+6. Berapa IP yang melakukan request \x04\x01\x00P\xC6\xCE\x0Eu0\x00 ?
+
+# Additional URL for IP Analysis
 Whois IP Lookup :
 https://www.ultratools.com/tools/ipWhoisLookupResult
 
