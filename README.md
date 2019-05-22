@@ -30,6 +30,7 @@ https://www.ultratools.com/tools/ipWhoisLookupResult
 IP Analysis :
 1. https://www.ipalyzer.com/
 2. https://www.ipvoid.com/
+3. https://mxtoolbox.com/blacklists.aspx
 
 IP Reputation :
 https://www.talosintelligence.com/reputation_center
