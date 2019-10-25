@@ -34,3 +34,7 @@ IP Analysis :
 
 IP Reputation :
 https://www.talosintelligence.com/reputation_center
+
+Trace History IP :
+1. https://www.riskiq.com/
+2. https://archive.org/web/
