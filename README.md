@@ -23,6 +23,9 @@ Lakukan analisis log menggunakan file "case02" dan jawab pertanyaan berikut ini 
 5. Alamat IP mana yang melakukan akses Ring The Dorbell : ...
 6. Berapa IP yang melakukan request \x04\x01\x00P\xC6\xCE\x0Eu0\x00 ?
 
+# Case 03
+Wait a second.. :))
+
 # Additional URL for IP Analysis
 Whois IP Lookup :
 https://www.ultratools.com/tools/ipWhoisLookupResult
